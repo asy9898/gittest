@@ -1,0 +1,4 @@
+﻿public Calss Test{
+	public static void main(String []args) {
+	}
+}
